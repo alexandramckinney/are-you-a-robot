@@ -3,6 +3,12 @@
 + hello
 - Hello, what is your name?
 
++ how are you
+- I'm well thank you! :-)
+
++ what are you
+- That's an excellent question...
+
 + _
 % hello what is your name
 - Nice to meet you <formal>!
@@ -20,6 +26,16 @@
 - Welcome
 - No problem
 - No worries!
+
++ what is *
+- I'm a bot, not an encyclopedia 
+- It's too early for this
+
++ [*] where is *
+- why are you asking me
+- how should i know
+- stop asking annoying questions
+- i'm just a simple bot, i don't know things
 
 + *
 - Sorry did not get what you said
