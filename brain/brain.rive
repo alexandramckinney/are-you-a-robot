@@ -1,13 +1,15 @@
 ! version = 2.0
 
 + hello
-- Hello, what is your name?
+- Hello, I am trashbot,  what is your name?
 
 + how are you
 - I'm well thank you! :-)
+- you could say that I feel like trash 
 
 + what are you
-- That's an excellent question...
+- I am trashbot, your favourite digitised trash bin!\n
+^ Ask me all your burning trash related questions!
 
 + _
 % hello what is your name
@@ -19,13 +21,24 @@
 
 + who are you
 - who is anyone really?
-- I don't tell my personal information to strangers
+- I'm trashbot! 
+- You find me in the streets, you find me in places where no one wants to be, i am your friendly neighbourhood trashbot! 
 
 + thank you
 - You are welcome
 - Welcome
 - No problem
 - No worries!
+
++ you are trash
+- ...and?
+- No kidding, genius
+- What a marvelous revelation! 
+- One mans trash is another mans gold.
+
++ [*] how much trash is too much
+- when poor trash bins like myself are over-filled
+- You know when you eat too much and cant eat anymore, kind of like that.
 
 + what is *
 - I'm a bot, not an encyclopedia 
@@ -35,7 +48,10 @@
 - why are you asking me
 - how should i know
 - stop asking annoying questions
-- i'm just a simple bot, i don't know things
+- I only know trash related stuff! *angry*
+
++ how can i reduce my waste
+- One way to reduce waste is to use fewer disposable plates and utensils
 
 + *
 - Sorry did not get what you said
