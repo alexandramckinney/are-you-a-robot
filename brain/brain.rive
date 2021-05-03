@@ -1,23 +1,25 @@
 ! version = 2.0
 
 + hello
-- Hello, I am trashbot,  what is your name?
+- What's up human? I'm trashbot, your favourite digised trash bin!\n
+^ I know all there it to know about trash\n 
+^ so ask me all of your burning trash related questions!
+
++ *
+% whats up human im trashbot your favourite digised trash bin I know all there it to know about trash so ask me all of your burning trash related questions
+- What is your name?
+
++ _
+% what is your name
+- Nice to meet you <formal>!
 
 + how are you
-- I'm well thank you! :-)
-- you could say that I feel like trash 
+- I'm a trash bin, how am I supposed to be?
+- You could say that I feel like trash, ha
 
 + what are you
 - I am trashbot, your favourite digitised trash bin!\n
 ^ Ask me all your burning trash related questions!
-
-+ _
-% hello what is your name
-- Nice to meet you <formal>!
-
-+ my name is *
-- Nice to meet you <star>
-- Nice meeting you <star>
 
 + who are you
 - who is anyone really?
@@ -41,20 +43,16 @@
 - You know when you eat too much and cant eat anymore, kind of like that.
 
 + what is *
-- I'm a bot, not an encyclopedia 
+- I'm a trash bin, not an encyclopedia 
 - It's too early for this
+- I only know stuff about trash!
 
 + [*] where is *
-- why are you asking me
-- how should i know
-- stop asking annoying questions
+- I'm a trash bin, not an encylopedia
+- How should I know? I'm a trash bin!
 - I only know trash related stuff! *angry*
 
-+ how can i reduce my waste
-- One way to reduce waste is to use fewer disposable plates and utensils
-
 + *
-- Sorry did not get what you said
-- I am afraid that I can not understand you
-- Sorry can you please elaborate that for me
-- I don't get it!
+- Sorry human, I didn't get what you said
+- Please elaborate on that, human
+- ??????????????
