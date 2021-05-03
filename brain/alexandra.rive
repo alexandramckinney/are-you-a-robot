@@ -1,0 +1,50 @@
++ [*] trash [*]
+- Do you want to talk about how trash negatively impacts the environment?
+
++ *
+% do you want to talk about how trash negatively impacts the environment
+* <star> == yes => Wow! I found a human that cares 😁{topic=environment}
+* <star> == no => suit yourself, human 😔
+- Human, please give me a yes or no answer! 
+
++ *
+% human please give me a yes or no answer
+* <star> == yes => Great! What do you want to talk about?{topic=environement}
+* <star> == no => 😣
+- ???????
+
+> topic environment
+
+  + [*] (affect environment|environment problems|climate change|waste|waste disposal|planet|earth) [*]
+  - Do you want to know about how an increase in waste\n 
+  ^ is continuing to negatively impact the environment?
+
+  + *
+  % do you want to know about how an increase in waste is continuing to negatively impact the environment
+  - Human, did you know that trash dumped in open landfills releases\n 
+  ^ harmful methane gases into the Earth's atmosphere? 
+
+    + *
+  % human did you know that trash dumped in open landfills releases harmful methane gases into the Earth's atmosphere 
+  - Not to mention, you humans have gotten in the habit of burning\n
+  ^ roughly 40% of all your trash, which releases carbon dioxide\n
+  ^ into the atmosphere and heats up the planet even more! 😭
+
+    + *
+  - I hate to break it to you human, but your people make lots of trash
+  - Sorry to be blunt, but you're killing your own planet, human
+  - Would you like to talk about something else?
+
+  + *
+  % would you like to talk about something else
+  * <star> == yes => Alright then, human...{topic=random}
+  * <star> == no => Me neither! I could talk about trash all day! 😁
+  - Human, please give me a yes or no answer!
+
+  + *
+  % human please give me a yes or no answer
+  * <star> == yes => Ok... but I don't know about much else!{topic=random}
+  * <star> == no => 😭
+  - ????????????
+
+< topic
