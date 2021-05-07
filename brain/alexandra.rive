@@ -9,7 +9,7 @@
 
 + *
 % human please give me a yes or no answer
-* <star> == yes => Great! What do you want to talk about?{topic=environement}
+* <star> == yes => Great! What do you want to talk about?{topic=environment}
 * <star> == no => 😣
 - ???????
 
@@ -32,7 +32,7 @@
 
     + *
   - I hate to break it to you human, but your people make lots of trash
-  - Sorry to be blunt, but you're killing your own planet, human
+  - Sorry to be blunt, but your planet is sad, human
   - Would you like to talk about something else?
 
   + *
@@ -43,7 +43,7 @@
 
   + *
   % human please give me a yes or no answer
-  * <star> == yes => Ok... but I don't know about much else!{topic=random}
+  * <star> == yes => Ok... but that's pretty much all I know!{topic=random}
   * <star> == no => 😭
   - ????????????
 
