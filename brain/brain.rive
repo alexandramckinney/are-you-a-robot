@@ -11,11 +11,14 @@
 
 + _
 % what is your name
-- Nice to meet you <formal>!
+- <set name=<formal>>Nice to meet you, <get name>!
+
++ what is my name
+- <get name> right?
 
 + how are you
 - I'm a bit too full of trash at the moment, but I'm okay!
-- You could say that I feel like trash, ha
+- You could say that I feel like trash, haha
 
 + what are you
 - I am trashbot, your favourite digitised trash bin!\n
@@ -23,8 +26,21 @@
 
 + who are you
 - who is anyone really?
-- I'm trashbot! 
-- You find me in the streets, you find me in places where no one wants to be, i am your friendly neighbourhood trashbot! 
+- I'm <bot name>! 
+- You find me in the streets, you find me in places where no one wants to be, I am your friendly neighbourhood trashbot!
+
++ (where are you|where do you live)
+- The main bin where I live is located at Camberwell College of Arts in London, where lots of art students dump waste inside me! Haha\n
+^ But when the trash collectors take away the trash that lives inside my main bin, that's still a part of me, so there are bits of me\n
+^ all around the world in different landfills and in the oceans. And at the same time, I exist here on the internet!\n
+^ You could say I'm well traveled!
+
++ how old are you
+- I'm a really young trash bin, I'm only <bot age>! 
+
++ my favourite food is *
+- <set food=<star>>I also enjoy <get food>, I don't know why humans would throw it away!
+- <set food=<formal>><get food> is really good! It's a lot tastier than other foods humans have dumped inside me!
 
 + thank you
 - You are welcome, human
@@ -55,4 +71,5 @@
 + *
 - Sorry human, I didn't get what you said
 - Please elaborate on that, human
+- I don't understand, maybe try phrasing that differently
 - ??????????????
