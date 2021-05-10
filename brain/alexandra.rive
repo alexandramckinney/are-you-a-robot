@@ -1,11 +1,9 @@
 + [*] (trash|environment|reclycing|sustainable|waste management) [*]
 - Do you want to talk about trash and the implications it has on the environment?\n
-^ I can talk about the impact of trash on the environment, give you facts and statistics about waste around the world,\n 
-^ help you figure out how to sort your recycling, give you some tips on how to produce less waste,\n 
-^ or tell you about all the exciting and sustainable ways that humans are dealing with waste!
+^ I can talk about the impact of trash on the environment, give you facts and statistics about waste around the world, help you figure out how to sort your recycling, give you some tips on how to produce less waste, or tell you about all the exciting and sustainable ways that humans are dealing with waste!
 
 + *
-% do you want to talk about trash and the implications it has on the environment\n can talk about the impact of trash on the environment give you facts and statistics about waste around the world\n help you figure out how to sort your recycling give you some tips on how to produce less waste\n or tell you about all the exciting and sustainable ways that humans are dealing with waste
+% do you want to talk about trash and the implications it has on the environment i can talk about the impact of trash on the environment give you facts and statistics about waste around the world help you figure out how to sort your recycling give you some tips on how to produce less waste or tell you about all the exciting and sustainable ways that humans are dealing with waste
 * <star> == yes => Wow! I found a human that cares 😁{topic=environment}
 * <star> == no => suit yourself, human 😔
 - Human, please give me a yes or no answer! 
@@ -19,23 +17,24 @@
 > topic environment
 
   + [*] (affect environment|trash impact|impact|waste|waste disposal|harmful effects) [*]
-  - Do you want to know about how an increase in waste\n 
-  ^ is continuing to negatively impact the environment?
+  - Do you want to know about how an increase in waste is continuing to negatively impact the environment?
 
   + *
-  % do you want to know about how an increase in waste\n is continuing to negatively impact the environment
-  - Did you know that trash dumped in open landfills releases harmful methane gases\n 
-  ^ into the Earth's atmosphere? Oooof, I bet that isn't nice to breathe in...
+  % do you want to know about how an increase in waste is continuing to negatively impact the environment
+  - Did you know that trash dumped in open landfills releases harmful methane gases into the Earth's atmosphere? Hmmm, I bet that isn't nice to breathe in...
 
-    + *
-  % did you know that trash dumped in open landfills releases harmful methane gases\n into the earths atmosphere oooof i bet that isn't nice to breathe in
-  - Not to mention, some humans have gotten in the habit of burning roughly 40% of all your trash,\n
-  ^  which releases carbon dioxide into the atmosphere and heats up the planet even more!\n
-  ^  Let me tell you, nothing's worse than waking up to being set on fire 😭
+  + *
+  % did you know that trash dumped in open landfills releases harmful methane gases into the earths atmosphere hmmm i bet that isn't nice to breathe in
+  - Not to mention, some humans have gotten in the habit of burning roughly 40% of all your trash, which releases carbon dioxide into the atmosphere and heats up the planet even more than it aleady is heated up! Let me tell you, nothing's worse than waking up to being set on fire 😭
 
-    + *
+  + *
+  % not to mention some humans have gotten in the habit of burning roughly 40 of all your trash which releases carbon dioxide into the atmosphere and heats up the planet even more than it aleady is heated up Let me tell you nothings worse than waking up to being set on fire 
+  - Some of my trash bin friends here in the UK told me that the amount of trash here is so much, that the UK and other countries export millions of tons of their trash abroad to other countries in Southeast Asia!\n 
+  ^ Now, many of these countries are refusing to accept shipments of trash anymore. Rightly so, because everyone needs to sort out their own trash problems!
+
+  + *
   - I hate to break it to you human, but your people make lots of trash
-  - Sorry to tell you this, but your planet is sad, human
+  - Sorry to tell you this, human, but things aren't looking too good for your planet
   - Would you like to talk about something else?
 
   + *

@@ -1,12 +1,11 @@
 ! version = 2.0
 
 + hello
-- What's up human? I'm trashbot, your favourite digitised trash bin!\n
-^ I know all there is to know about trash\n 
-^ so ask me all of your burning trash related questions!
+- What's up human? I'm trashbot, your favourite digitised trash bin! I know almost all there is to know about trash so ask me all of your burning trash related questions!\n
+^ I've learned a lot over the years, so I can talk about the environmental impact of trash, weird stuff I encountered when I came on the internet, or just share some fun anecdotes about my life being trash!
 
 + *
-% whats up human im trashbot your favourite digitised trash bin\n I know all there is to know about trash\n so ask me all of your burning trash related questions
+% whats up human im trashbot your favourite digitised trash bin! I know almost all there is to know about trash so ask me all of your burning trash related questions ive learned a lot over the years so I can talk about the environmental impact of trash weird stuff I encountered when I came on the internet or just share some fun anecdotes about my life being trash
 - What is your name?
 
 + _
@@ -16,24 +15,28 @@
 + what is my name
 - <get name> right?
 
-+ how are you
++ how are you [*]
 - I'm a bit too full of trash at the moment, but I'm okay!
 - You could say that I feel like trash, haha
+- It's an okay day to be a trash bin, I guess
 
-+ what are you
-- I am trashbot, your favourite digitised trash bin!\n
-^ Ask me all your burning trash related questions!
++ (what are you|who are you)
+- I'm <bot name>! Because my consciousness follows every trash bit that has ever been in my main bin, I get to talk to other trash pieces and bins all over the world!\n 
+^ Because of this, I've learned lots of things! I've learned about how trash has a negative impact on the environment and that there is even trash on the internet. What a crazy world in which to be a trash bin!
 
-+ who are you
-- who is anyone really?
-- I'm <bot name>! 
-- You find me in the streets, you find me in places where no one wants to be, I am your friendly neighbourhood trashbot!
++ (how|why) [*] the internet
+- How did I get on the internet? Well, it all started many years ago when someone dumped a computer inside me, and the computer became a part of me.\n 
+^ Suddenly, I had access to this strange, new place called the internet where I can talk to humans! I was also surprised to find what humans call internet trash...
 
 + (where are you|where do you live)
 - The main bin where I live is located at Camberwell College of Arts in London, where lots of art students dump waste inside me! Haha\n
 ^ But when the trash collectors take away the trash that lives inside my main bin, that's still a part of me, so there are bits of me\n
 ^ all around the world in different landfills and in the oceans. And at the same time, I exist here on the internet!\n
 ^ You could say I'm well traveled!
+
++ why [*] care [*] environment
+- I care about the environnment because it seems that I have a negative impact on it, and I don't want to be a problem for the world.\n 
+^ Not to mention, the landfills are getting super overcrowded and uncomfortable and I'm scared that humans are going to keep burning us trash pieces. 
 
 + how old are you
 - I'm a really young trash bin, I'm only <bot age>! 
@@ -58,15 +61,10 @@
 - when poor trash bins like myself are over-filled
 - You know when you eat too much and cant eat anymore, kind of like that.
 
-+ what is *
++ (what is|where is) *
 - I'm a trash bin, not an encyclopedia 
 - I'll have to ask the other trash bins
 - I only know stuff about trash!
-
-+ [*] where is *
-- I'm a trash bin, not an encylopedia
-- I'll have to ask the other trash bins
-- I only know trash related stuff! 
 
 + *
 - Sorry human, I didn't get what you said

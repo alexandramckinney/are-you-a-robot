@@ -6,6 +6,7 @@
 
 // Bot Variables
 ! var name     = TrashBot
+! var age      = 30
 
 // Substitutions
 ! sub &quot;    = "
