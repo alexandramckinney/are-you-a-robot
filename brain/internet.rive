@@ -1,0 +1,34 @@
++ [*] (internet|online|website|media) [*]
+- Do you want to about my experiences being on the internet? I may have already told you, but I got on the internet many years ago when someone dumped a computer inside my bin.\n
+^ I can tell you about the trash I found on the internet, some weird things I found, and what I think about it all!
+
++ *
+% do you want to about my experiences being on the internet i may have already told you but i got on the internet many years ago when someone dumped a computer inside my bin i can tell you about the trash i found on the internet some weird things i found and what i think about it all
+* <star> == yes => Wow! I found a human that cares 😁{topic=internet}
+* <star> == no => okay then, human 😔
+- Human, please give me a yes or no answer! 
+
++ *
+% human please give me a yes or no answer
+* <star> == yes => Great! What do you want to talk about?{topic=internet}
+* <star> == no => 😣
+- ???????
+
+> topic internet
+
+  + [*] (internet trash|bad|like|stupid) [*]
+  - You want to know about all the trash I found when I got on the internet?
+
+  + *
+  % would you like to talk about something else
+  * <star> == yes => Alright then, human...{topic=random}
+  * <star> == no => Me neither! It's fun to talk about this! 😁
+  - Human, please give me a yes or no answer!
+
+  + *
+  % human please give me a yes or no answer
+  * <star> == yes => Ok... but that's pretty much all I know!{topic=random}
+  * <star> == no => 😭
+  - ????????????
+
+< topic
