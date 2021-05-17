@@ -61,6 +61,10 @@ body {
   color: blueviolet;
 }
 
+.messages img {
+  width: 100%;
+}
+
 .messages .bot {
   text-align: left;
   margin-right: auto;
