@@ -1,7 +1,9 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;800&display=swap");
+/*@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;800&display=swap");*/
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 
 * {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 12pt;
   margin: 0;
   box-sizing: border-box;
@@ -66,6 +68,7 @@ body {
 }
 
 .messages .bot {
+  font-family: 'Courier New', Courier, monospace;
   text-align: left;
   margin-right: auto;
   background: grey;
@@ -99,6 +102,10 @@ body {
   border-right: 0px;
   border-bottom: 2px solid black;
   border-left: 0px;
+}
+
+.script{
+ font-family: Arial, Helvetica, sans-serif
 }
 
 input:focus {
