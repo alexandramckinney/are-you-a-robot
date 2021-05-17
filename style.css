@@ -8,7 +8,7 @@
 }
 
 body {
-  background: #f2f2f2;
+  background: rgb(37, 66, 52);
 }
 
 .title {
@@ -20,7 +20,7 @@ body {
 
 .title h1 {
   letter-spacing: 0.75px;
-  color: blueviolet;
+  color: white;
 }
 
 .wrapper {
@@ -29,7 +29,7 @@ body {
 
 .chat {
   background: white;
-  box-shadow: 10px 10px 0px blueviolet;
+  box-shadow: 10px 10px 0px green;
   overflow: scroll;
   height: 100%;
   display: flex;
@@ -63,7 +63,7 @@ body {
 .messages .bot {
   text-align: left;
   margin-right: auto;
-  background: black;
+  background: grey;
   color: white;
 }
 
@@ -72,8 +72,8 @@ body {
   margin-right: 20px;
   margin-left: auto;
   background: white;
-  border: 1px solid blueviolet;
-  color: blueviolet;
+  border: 1px solid grey;
+  color: green;
 }
 
 .actions {
