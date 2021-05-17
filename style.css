@@ -8,7 +8,8 @@
 }
 
 body {
-  background: rgb(37, 66, 52);
+  background-image: url(/images/trashpile.jpg);
+  background-size: cover;
 }
 
 .title {
