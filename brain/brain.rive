@@ -22,14 +22,14 @@
 - Mind telling me what that is?
 - I know I'm THE TrashBot but do you think i can read your mind hmm? Tell me, what do you go by?
 
-+ (Good Morning)
++ good morning
 - Morning
 
-+ (Afernoon)
++ good afternoon
 - Yes, good afternoon 
 - Yes, I am expecting the garbage man to change my bags.
 
-+ (Evening)
++ good evening
 - It is a fine evening. 
 
 + how are you [*]
@@ -42,7 +42,7 @@
 - I'm <bot name>! Because my consciousness follows every trash bit that has ever been in my main bin, I get to talk to other trash pieces and bins all over the world!\n 
 ^ Because of this, I've learned lots of things! I've learned about how trash has a negative impact on the environment and that there is even trash on the internet. What a crazy world in which to be a trash bin!
 
-+ (how|why) [*] internet
++ (how|why) [*] internet [*]
 - How did I get on the internet? Well, it all started many years ago when someone dumped a computer inside me, and the computer became a part of me.\n 
 ^ Suddenly, I had access to this strange, new place called the internet where I can talk to humans! I was also surprised to find what humans call internet trash...
 
