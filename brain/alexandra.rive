@@ -1,9 +1,9 @@
 + [*] (trash|environment|reclycing|sustainable|waste|impact) [*]
 - Do you want to talk about trash and the implications it has on the environment?\n
-^ I can talk about the <span class="script">impact of trash on the environment</span>, give you <span class="script">facts and statistics about waste around the world</span>, help you figure out how to <span class="script">sort your recycling</span>, give you some tips on how to produce less waste, or tell you about all the exciting and sustainable ways that humans are dealing with waste!
+^ I can talk about the <span class="script">impact of trash on the environment</span>, give you <span class="script">facts and statistics about waste around the world</span>, help you figure out how to <span class="script">sort your recycling</span>, give you some tips on how to <span class="script">produce less waste</span>, or tell you about some exciting, <span class="script">sustainable solutions</span> that humans have come up with to deal with waste!
 
 + *
-% do you want to talk about trash and the implications it has on the environment i can talk about the impact of trash on the environment give you facts and statistics about waste around the world help you figure out how to sort your recycling give you some tips on how to produce less waste or tell you about all the exciting and sustainable ways that humans are dealing with waste
+% do you want to talk about trash and the implications it has on the environment i can talk about the impact of trash on the environment give you facts and statistics about waste around the world help you figure out how to sort your recycling give you some tips on how to produce less waste or tell you about some exciting sustainable solutions that humans have come up with to deal with waste
 * <star> == yes => Wow! I found a human that cares 😁{topic=environment}
 * <star> == no => suit yourself, human 😔
 - Human, please give me a yes or no answer! 
@@ -16,7 +16,7 @@
 
 > topic environment
 
-  + [*] (affect|environment|trash impact|impact|waste|waste disposal|harmful effects) [*]
+  + [*] (affect|environment|trash impact|impact|waste disposal|harmful effects) [*]
   - You want to know about how an increase in waste is continuing to negatively impact the environment?
 
   + *
@@ -47,7 +47,7 @@
   - But don't even get me started on hazardous waste, those guys are just mean to everyone. They're the worst trash to be placed next to in a landfill, belive me. Their presence is also really harmful for you humans.\n 
   ^ I have a trash bin friend that knows another trash bin at a medical lab. They told me that hazardous waste poses a serious health risk for humans that live near dump sites for hazardous waste and that proximity to hazardous waste has been linked to different kinds of cancer, asthma, and birth defects.
 
-  + [*] (facts|statistics||waste|trash|world|uk) [*]
+  + [*] (facts|statistics|waste|trash|world|uk) [*]
   - You want to hear some facts about waste production around the world?
 
   + *
@@ -82,7 +82,7 @@
   % one of my trash bin friends that lives at a research institute told me that the researchers there concluded that the average person living in western europe or the united states produces on average about 100 kilograms of plastic waste every year no wonder i am made up of so much plastic my friend also told me that out of all the plastic waste generated in the world in 2015 only 9 percent was recycled 12 percent was incerated  ouch  and 79 percent ended up being dumped either in landfills or in the natural environment i really hope more plastics are recycled in the future because I would like to be more useful instead of being just a problem
   - Honestly, there's so much plastic taking up space in the landfills, and you probably already know that there are lots of plastics in the world's oceans. Remember that trash bin friend from the research institute? They also told me that there are more than 5 trillion plastic particles in the oceans! I would have never guessed...but I suppose this is why we need to educate ourselves about these things!
 
-  + [*] (recycling|recycle) [*]
+  + [*] (recycling|recycle|recyclable) [*]
   - You want me to give you some tips on how to sort your recycling?
 
   + *
@@ -102,9 +102,25 @@
   % one tip i have for you is to examine the recycling label found on the packaging as that usually will give you a good indication as to whether something is recyclable
   - I also reccomend that you leave caps and lids on the bottle or jar they came on when puting them in the recycling. Also, make sure to clean and rinse out any containers before recycling them!
 
+  + [*] (reduce waste|waste free|sustainable living|less waste)
+  - You want me to give you some pointers about how to reduce the amount of waste you produce?
+
   + *
-  - I hate to break it to you human, but you guys make lots of trash
-  - Sorry to tell you this, human, but things aren't looking too good for your planet
+  % you want me to give you some pointers about how to reduce the amount of waste you produce
+  - Well, the first tip I'd like to give you human, is to avoid single-use items and incorporate more reusable products into your routine! Try using reusable shopping bags and reusable bottles or cups when you are on the go. If you really want to step up your waste reduction game, keep a set of utensils with you when you go out, so you don't need to use disposable utensils!
+
+  + *
+  % well the first tip i would like to give you human is to avoid single use items and incorporate more reusable products into your routine try using reusable shopping bags and reusable bottles or cups when you are on the go f you really want to step up your waste reduction game keep a set of utensils with you when you go out so you do not need to use disposable utensils
+  - Another cool way to reduce waste, that I learned from one of my trash bin friends, is to buy less cleaning clothes and paper towels and instead use old fabric that you would have gotten rid of anyway. You use something like an old towel or t-shirt!
+
+  + *
+  % another cool way to reduce waste that i learned from one of my trash bin friends is to buy less cleaning clothes and paper towels and instead use old fabric that you would have gotten rid of anyway you use something like an old towel or t shirt
+  - A lot of disposable items are made of plastic, which as I might have mentioned, takes anywhere between a few decades and a few centuries to break down. Not good! This is why I suggest that humans use plastic-free options wherever possible.\n
+  ^  
+
+  + *
+  - I'm happy to share what I've learned over the years while being a trash bin!\n
+  ^ I can talk about the <span class="script">impact of trash on the environment</span>, give you <span class="script">facts and statistics about waste around the world</span>, help you figure out how to <span class="script">sort your recycling</span>, give you some tips on how to <span class="script">produce less waste</span>, or tell you about some exciting, <span class="script">sustainable solutions</span> that humans have come up with to deal with waste!
   - Would you like to talk about something else?
 
   + *
