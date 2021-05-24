@@ -15,7 +15,7 @@
 - It is a fine evening. 
 
 + my name is *
-- <set name=<formal>>Thank you for lettening me know <get name>, I have registered your name in the Trash Database. 
+- <set name=<formal>>Thank you for letting me know <get name>, I have registered your name in the Trash Database. 
 * <formal>   == <bot name> => Wow so funny! -_- !<set name=<formal>>
 * <get name> == undefined  => <set name=<formal>>Okay <get name>
 - <set oldname=<get name>><set name=<formal>>
@@ -38,9 +38,9 @@
 ^ Didn't you say your <get oldage>?
 * <get age> == undefined => Maybe you should let me know how old you are first...
 * <get age> >  25 => At your age you should know how to sort out your trash!
-* <get age> >  18 => You kids are always leaving your acholic beverages on the streets, your more filthy than the worst trash i know!...hopefully your not like them haha...
+* <get age> >  18 => You kids are always leaving your alcholic beverages on the streets, you're more filthy than the worst trash i know!...hopefully you're not like them haha...
 * <get age> == 18 => Hmm did you know you can start becoming a garbage collector?
-* <get age> < 16 => Your still growing.
+* <get age> < 16 => You're still growing.
 - Hahaha, still so young, the world is your landfill!
 
 + do you know my age
