@@ -1,9 +1,8 @@
 + [*] (trash|environment|reclycing|sustainable|waste) [*]
-- Do you want to talk about trash and the implications it has on the environment?\n
-^ I can talk about the <span class="script">impact of trash on the environment</span>, give you <span class="script">facts and statistics about waste around the world</span>, help you figure out how to <span class="script">sort your recycling</span>, give you some tips on how to <span class="script">produce less waste</span>, or tell you about some exciting, <span class="script">sustainable solutions</span> that humans have come up with to deal with waste!
+- Do you want to talk about trash and the implications it has on the environment? I can talk about the <span class="script">impact of trash on the environment</span>, give you <span class="script">facts and statistics about waste around the world</span>, help you figure out how to <span class="script">sort your recycling</span>, give you some tips on how to <span class="script">produce less waste</span>, or tell you about some exciting, <span class="script">sustainable solutions</span> that humans have come up with to deal with waste!
 
 + *
-% do you want to talk about trash and the implications it has on the environment i can talk about the impact of trash on the environment give you facts and statistics about waste around the world help you figure out how to sort your recycling give you some tips on how to produce less waste or tell you about some exciting sustainable solutions that humans have come up with to deal with waste
+% do you want to talk about trash and the implications it has on the environment i can talk about the <span class=script>impact of trash on the environment</span> give you <span class=script>facts and statistics about waste around the world</span> help you figure out how to <span class=script>sort your recycling</span> give you some tips on how to <span class=script>produce less waste</span> or tell you about some exciting <span class=script>sustainable solutions</span> that humans have come up with to deal with waste
 * <star> == yes => Wow! I found a human that cares 😁{topic=environment}
 * <star> == no => suit yourself, human 😔
 - Human, please give me a yes or no answer! 
