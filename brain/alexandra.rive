@@ -1,8 +1,9 @@
 + [*] (trash|environment|reclycing|sustainable|waste) [*]
-- Do you want to talk about trash and the implications it has on the environment? I can talk about the <span class="script">impact of trash on the environment</span>, give you <span class="script">facts and statistics about waste around the world</span>, help you figure out how to <span class="script">sort your recycling</span>, give you some tips on how to <span class="script">produce less waste</span>, or tell you about some exciting, <span class="script">sustainable solutions</span> that humans have come up with to deal with waste!
+- Do you want to talk about trash and the implications it has on the environment? I can talk about the impact of trash on the environment, give you facts and statistics about waste around the world, help you figure out how to sort your recycling, give you some tips on how to produce less waste, or tell you about some exciting, sustainable solutions that humans have come up with to deal with waste!
+//Do you want to talk about trash and the implications it has on the environment? I can talk about the <span class="script">impact of trash on the environment</span>, give you <span class="script">facts and statistics about waste around the world</span>, help you figure out how to <span class="script">sort your recycling</span>, give you some tips on how to <span class="script">produce less waste</span>, or tell you about some exciting, <span class="script">sustainable solutions</span> that humans have come up with to deal with waste!
 
 + *
-% do you want to talk about trash and the implications it has on the environment i can talk about the <span class=script>impact of trash on the environment</span> give you <span class=script>facts and statistics about waste around the world</span> help you figure out how to <span class=script>sort your recycling</span> give you some tips on how to <span class=script>produce less waste</span> or tell you about some exciting <span class=script>sustainable solutions</span> that humans have come up with to deal with waste
+% do you want to talk about trash and the implications it has on the environment i can talk about the impact of trash on the environment give you facts and statistics about waste around the world help you figure out how to sort your recycling give you some tips on how to produce less waste or tell you about some exciting sustainable solutions that humans have come up with to deal with waste
 * <star> == yes => Wow! I found a human that cares 😁{topic=environment}
 * <star> == no => suit yourself, human 😔
 - Human, please give me a yes or no answer! 
@@ -24,10 +25,10 @@
 
   + *
   % did you know that trash dumped in open landfills releases harmful methane gases into the earths atmosphere hmmm i bet that is not nice to breathe in
-  - Not to mention, some humans have gotten in the habit of burning roughly 40 percent of all your trash, which releases carbon dioxide into the atmosphere and heats up the planet even more than it aleady is heated up! Let me tell you, nothing's worse than waking up to being set on fire 😭
+  - Not to mention, some humans have gotten in the habit of burning roughly 40 percent of all your trash, which releases carbon dioxide into the atmosphere and heats up the planet even more than it aleady is heated up! Let me tell you, nothing's worse than waking up to being set on fire 
 
   + *
-  % not to mention some humans have gotten in the habit of burning roughly 40 percent of all your trash which releases carbon dioxide into the atmosphere and heats up the planet even more than it aleady is heated up let me tell you nothing is worse than waking up to being set on fire 
+  % not to mention some humans have gotten in the habit of burning roughly 40 percent of all your trash which releases carbon dioxide into the atmosphere and heats up the planet even more than it aleady is heated up let me tell you nothing is worse than waking up to being set on fire cry
   - Some of my trash bin friends here in the UK told me that the amount of trash here is so much, that the UK and other countries export millions of tons of their trash abroad to other countries in Southeast Asia!\n 
   ^ Now, many of these countries are refusing to accept shipments of trash anymore. Rightly so, because everyone needs to sort out their own trash problems!
 
@@ -39,7 +40,7 @@
 
   + *
   % i have a feeling that the humans this side of the earth do not really know much about the trash situation on the other side of the earth you know for instance some of my trash self lives in the bantar gebang landfill in jakarta indonesia one of the biggest landfills in the world which is quite overcrowded because the humans there dont have space for another landfill because of this many humans that live there work as scavengers helping to sort out the trash and pick out what can be recycled this can be quite dangerous as us trash pieces are all lumped together in giant piles that could easily fall and crush the scavengers sounds rough right 
-  - I feel bad for the countries that have to carry everyone's trash, even though us trash pieces aren't trying to be bad guests 😭 Unfortunately, our presence has led to an increase in water contamination and illnesses relating to air pollution. 
+  - I feel bad for the countries that have to carry everyone's trash, even though us trash pieces aren't trying to be bad guests. Unfortunately, our presence has led to an increase in water contamination and illnesses relating to air pollution. 
 
   + * 
   % i feel bad for the countries that have to carry everyones trash even though us trash pieces are not trying to be bad guests unfortunately our presence has led to an increase in water contamination and illnesses relating to air pollution
