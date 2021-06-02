@@ -4,7 +4,7 @@
 
 + *
 % do you want to talk about trash and the implications it has on the environment i can talk about the impact of trash on the environment give you facts and statistics about waste around the world help you figure out how to sort your recycling give you some tips on how to produce less waste or tell you about some exciting sustainable solutions that humans have come up with to deal with waste
-* <star> == yes => Wow! I found a human that cares 😁{topic=environment}
+* <star> == yes => Wow! I found a human that's interested 😁 tell me, what do you want to talk about? {topic=environment}
 * <star> == no => suit yourself, human 😔
 - Human, please give me a yes or no answer! 
 
@@ -28,9 +28,8 @@
   - Not to mention, some humans have gotten in the habit of burning roughly 40 percent of all your trash, which releases carbon dioxide into the atmosphere and heats up the planet even more than it aleady is heated up! Let me tell you, nothing's worse than waking up to being set on fire 
 
   + *
-  % not to mention some humans have gotten in the habit of burning roughly 40 percent of all your trash which releases carbon dioxide into the atmosphere and heats up the planet even more than it aleady is heated up let me tell you nothing is worse than waking up to being set on fire cry
-  - Some of my trash bin friends here in the UK told me that the amount of trash here is so much, that the UK and other countries export millions of tons of their trash abroad to other countries in Southeast Asia!\n 
-  ^ Now, many of these countries are refusing to accept shipments of trash anymore. Rightly so, because everyone needs to sort out their own trash problems!
+  % not to mention some humans have gotten in the habit of burning roughly 40 percent of all your trash which releases carbon dioxide into the atmosphere and heats up the planet even more than it aleady is heated up let me tell you nothing is worse than waking up to being set on fire
+  - Some of my trash bin friends here in the UK told me that the amount of trash here is so much, that the UK and other countries export millions of tons of their trash abroad to other countries in Southeast Asia! Now, many of these countries are refusing to accept shipments of trash anymore. Rightly so, because everyone needs to sort out their own trash problems!
 
   + *
   % some of my trash bin friends here in the uk told me that the amount of trash here is so much that the uk and other countries export millions of tons of their trash abroad to other countries in southeast asia now many of these countries are refusing to accept shipments of trash anymore rightly so because everyone needs to sort out their own trash problems

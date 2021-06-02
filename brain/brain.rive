@@ -11,12 +11,12 @@
 % what is your name
 - <set name=<formal>>Thank you for letting me know <get name>, I have registered your name in the Trash Database. 
 * <formal>   == <bot name> => Wow so funny! -_- !<set name=<formal>>
-* <get name> == undefined  => <set name=<formal>>Okay <get name>
+* <get name> == undefined  => <set name=<formal>>Okay <get name>, nice to meet you!
 - <set oldname=<get name>><set name=<formal>>
 ^ Didn't you say your name was <get oldname>?
 
 + (what is my name|who am i|do you know my name|do you know who i am)
-* <get name> != undefined => Your name is <get name>!  Who do you take me for!? Of course, I remember *hmph*
+* <get name> != undefined => Your name is <get name>!  See, I can remember! I'm not your ordinary trash bin *hmph* 
 - Um, I don't know your name, do you have a label or something?
 - Mind telling me what that is?
 - I know I'm THE TrashBot but do you think i can read your mind hmm? Tell me, what do you go by?
