@@ -70,9 +70,9 @@
 * <get age> < 16 => You're still growing.
 - Hahaha, still so young, the world is your landfill!
 
-+ do you know my age
-* <get age> != undefined => You are <get name>. But those are rookie numbers my friend.
-- No, you've need to tell me first human.
++ (do you know my age|how old am i)
+* <get age> != undefined => You are <get age>. But those are rookie numbers my friend.
+- No, you need to tell me first human.
 
 + what do you know about me
 - Looking at my Trash Database - You go by the name <get name> and you are <get age> years old.
