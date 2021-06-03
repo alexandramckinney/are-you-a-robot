@@ -1,10 +1,10 @@
 + [*] (internet|online|website|media) [*]
 - Do you want to about my experiences being on the internet? I may have already told you, but I got on the internet many years ago when someone dumped a computer inside my bin.\n
-^ I can tell you about the trash I found on the internet, some weird things I found, and what I think about it all!
+^ I can tell you about the trash I found on the internet (mostly trolls), other chatbots I met online, and what I think about it all!
 
 + *
-% do you want to about my experiences being on the internet i may have already told you but i got on the internet many years ago when someone dumped a computer inside my bin i can tell you about the trash i found on the internet some weird things i found and what i think about it all
-* <star> == yes => Cool! 😁 What do you want to talk about? {topic=internet}
+% do you want to about my experiences being on the internet i may have already told you but i got on the internet many years ago when someone dumped a computer inside my bin i can tell you about the trash i found on the internet mostly trolls other chatbots i met online what i think about it all
+* <star> == yes => Cool! 😁 What do you want me to talk about? {topic=internet}
 * <star> == no => okay then, human 😔
 - Human, please give me a yes or no answer! 
 
@@ -16,8 +16,19 @@
 
 > topic internet
 
-  + [*] (internet trash|bad|like|stupid) [*]
-  - You want to know about all the trash I found when I got on the internet?
+  + [*] (internet trash|bad|stupid|trolls) [*]
+  - You want to know about the trash I found when I got on the internet? The worst trash I found were internet trolls...
+
+  + *
+  % you want to know about the trash i found when i got on the internet the worst trash i found were internet trolls
+  - So, you might be asking yourself, TrashBot...how would you know what internet trash looks like? After all, most of my experience is with real trash in the physical world. Humans define trash as unwanted, discarded material (which could depress a trash bin like myself if I thought about it too much). So ultimately, internet trash would be content that is generally unwanted and worthy of being discarded. 
+
+  + *
+  % so you might be asking yourself trashBot   how would you know what internet trash looks like after all most of my experience is with real trash in the physical world humans define trash as unwanted discarded material which could depress a trash bin like myself if I thought about it too much so ultimately internet trash would be content that is generally unwanted and worthy of being discarded
+  - I think that most internet trash comes from what humans call internet trolls. From my understanding, these trolls hide behind the anonymity of the internet to threaten and insult people, which I really don't understand. 
+
+  
+
 
   + *
   % would you like to talk about something else
