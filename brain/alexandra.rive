@@ -51,11 +51,14 @@
 
   + *
   % you want to hear some facts about waste production around the world
-  - Well human, you might be surprised to hear that about 2.12 billion tons of waste are dumped on the planet every year! Wow... that's a big number. And 400 million tons of that trash is made up of hazardous waste, which can cause a number of health problems for the humans that come in proximity to that waste.\n 
-  ^ So I guess it's not surprising that the biggest landfills and waste dumps around the world recieve about 10,000 tons of trash everyday, which is why it's always so crowded at the landfills. 
+  - Well human, you might be surprised to hear that about 2 billion tons of waste are dumped on the planet every year! Wow... that's a big number. And 400 million tons of that trash is made up of hazardous waste, which can cause a number of health problems for the humans that come in proximity to that waste. 
+  
+  + *
+  % well human you might be surprised to hear that about 2 billion tons of waste are dumped on the planet every year wow that is a big number and 400 million tons of that trash is made up of hazardous waste which can cause a number of health problems for the humans that come in proximity to that waste
+  - So I guess it's not surprising that the biggest landfills and waste dumps around the world recieve about 10,000 tons of trash everyday, which is why it's always so crowded at the landfills. 
 
   + *
-  % well human you might be surprised to hear that about 212 billion tons of waste are dumped on the planet every year wow that is a big number and 400 million tons of that trash is made up of hazardous waste which can cause a number of health problems for the humans that come in proximity to that waste so i guess it is not surprising that the biggest landfills and waste dumps around the world recieve about 10000 tons of trash everyday which is why it is always so crowded at the landfills
+  % so i guess it is not surprising that the biggest landfills and waste dumps around the world recieve about 10000 tons of trash everyday which is why it is always so crowded at the landfills
   - You might be wondering, how are humans making so much trash? Well, it's not all produced by individual humans, some of it is produced by big companies and corporations. The waste found in landfills generally consists of: construction waste, industrial waste, household waste, plastic waste, electronic waste, radioactive waste, sewage, and run-off waste like fertilizers.
 
   + *
@@ -156,10 +159,14 @@
 
   + *
   %  with all the tech gadgets that humans have it might not surprise you to learn that great progress has been made in automating the process of sorting trash in finland a company called zenrobotics ltd have developed robots that pick out wood and metal from conveyour belts of trash and this technology could help sort plastics with more development in the future
-  - Honestly, I cannot wait to be friends with all the sorting robots! Plus, better sorting means that more waste will be recycled, giving a second life to what othrwise would have become trash. I'm not too happy that these developers are planning on incinerating the trash that isn't recyled... that part of the plan does not sound as fun to me. Can't I just be friends with the robots?
+  - Honestly, I cannot wait to be friends with all the sorting robots! Plus, better sorting means that more waste will be recycled, giving a second life to what othrwise would have become trash. 
+  
+  + *
+  % honestly i cannot wait to be friends with all the sorting robots plus better sorting means that more waste will be recycled giving a second life to what othrwise would have become trash
+  - I'm not too happy that these developers are planning on incinerating the trash that isn't recyled... that part of the plan does not sound as fun to me. Can't I just be friends with the robots?
 
   + *
-  % honestly i cannot wait to be friends with all the sorting robots plus better sorting means that more waste will be recycled giving a second life to what othrwise would have become trash i am not too happy that these developers are planning on incinerating the trash that isn't recyled that part of the plan does not sound as fun to me cannot i just be friends with the robots
+  % i am not too happy that these developers are planning on incinerating the trash that is not recyled that part of the plan does not sound as fun to me cannot i just be friends with the robots
   - Back to the subject, I also heard that companies in India, Indonesia, and Thailand are drawing out the methane gases from decomposing organic waste in dumps to generate renewable energy. That means that even the humble trash bits that have lived inside me could one day help provide power for the world! I feel like I have a new goal for my existence now.
 
   + *
@@ -167,7 +174,7 @@
   - You humans do come up with good ideas sometimes, I'll give you that. Aside from collecting the gases from decomposing trash for renewable energy, one of my bin friends tells me that there are now modern landfills being engineered to reduce the risk of environmental contamination. That is very beneficial, as us trash bits would never want to cause problems for the humans that live near us. 
 
   + *
-  % you humans do come up with good ideas sometimes i will give you that aside from collecting the gases from decomposing trash for renewable energy one of my bin friends tells me that there are now modern landfills being engineered to reduce the risk of environmental contamination that is very beneficial as us trash bits would never want to cause problems for the humans that live near us. 
+  % you humans do come up with good ideas sometimes i will give you that aside from collecting the gases from decomposing trash for renewable energy one of my bin friends tells me that there are now modern landfills being engineered to reduce the risk of environmental contamination that is very beneficial as us trash bits would never want to cause problems for the humans that live near us 
   - As in the case of landfills engineered by waste management company WM, the landfills have liners to divide sections of the landfill and prevent ground contamination. Meanwhile, there are also systems put in place for liquid collection to prevent groundwater contamination and daily maintenance to help with odors produced by the waste. I mean, if I really have to live in a landfill, this seems like a good option!
 
   + *
@@ -191,8 +198,8 @@
 
   + *
   % human please give me a yes or no answer
-  * <star> == yes => Ok... but that's pretty much all I know!{topic=random}
-  * <star> == no => 😭
+  * <star> == yes => Ok... that's pretty much all I know anyway!{topic=random}
+  * <star> == no => Okay, what other trash information can I give you? 
   - ????????????
 
 < topic
