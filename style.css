@@ -115,6 +115,7 @@ body {
 
 .script{
  font-family: 'lores-12', sans-serif;
+ color: rgb(129, 255, 129);
 }
 
 input:focus {
