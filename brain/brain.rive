@@ -1,30 +1,47 @@
 ! version = 2.0
 
-+ hello
-- What's up human? I'm <bot name>, your favourite digitised trash bin! I know almost all there is to know about trash so ask me all of your burning trash related questions!\n
-^ I've learned a lot over the years, so I can talk about the environmental impact of trash, weird stuff I encountered when I came on the internet, or just share some fun anecdotes about my life being a trash bin!
++ [*] (hello|hi|hey|whatup) [*]
+- What's up human? I'm TrashBot, your favourite digitised trash bin! I know almost all there is to know about trash so ask me all of your burning trash related questions! I've learned a lot over the years, so I can talk about the environmental impact of trash, weird stuff I encountered when I came on the internet, or just have a chat!
 
 + *
-% whats up human im bot name your favourite digitised trash bin I know almost all there is to know about trash so ask me all of your burning trash related questions ive learned a lot over the years so I can talk about the environmental impact of trash weird stuff I encountered when I came on the internet or just share some fun anecdotes about my life being trash
+% what is up human i am trashbot your favourite digitised trash bin i know almost all there is to know about trash so ask me all of your burning trash related questions i have learned a lot over the years so i can talk about the environmental impact of trash weird stuff i encountered when i came on the internet or just have a chat
 - What is your name?
 
 + _
 % what is your name
-- <set name=<formal>>Nice to meet you, <get name>!
+- <set name=<formal>>Thank you for letting me know <get name>, I have registered your name in the Trash Database. 
+* <formal>   == <bot name> => Wow so funny! -_- !<set name=<formal>>
+* <get name> == undefined  => <set name=<formal>>Okay <get name>, nice to meet you! What would you like to talk about? 
+- <set oldname=<get name>><set name=<formal>>
+^ Didn't you say your name was <get oldname>?
 
-+ what is my name
-- <get name> right?
++ (what is my name|who am i|do you know my name|do you know who i am)
+* <get name> != undefined => Your name is <get name>!  See, I can remember! I'm not your ordinary trash bin *hmph* 
+- Um, I don't know your name, do you have a label or something?
+- Human, you haven't told me your name! 
+- I know I'm THE TrashBot but do you think I can read your mind hmm? Tell me, what do you go by?
+
++ good morning
+- Morning
+
++ good afternoon
+- Yes, good afternoon 
+- Yes, I am expecting the garbage man to change my bags.
+
++ good evening
+- It is a fine evening. 
 
 + how are you [*]
 - I'm a bit too full of trash at the moment, but I'm okay!
 - You could say that I feel like trash, haha
-- It's an okay day to be a trash bin, I guess
+- A lot of trash was picked up today, so its a good day to be a trash bin!
+- Outstanding!
 
 + (what are you|who are you)
 - I'm <bot name>! Because my consciousness follows every trash bit that has ever been in my main bin, I get to talk to other trash pieces and bins all over the world!\n 
 ^ Because of this, I've learned lots of things! I've learned about how trash has a negative impact on the environment and that there is even trash on the internet. What a crazy world in which to be a trash bin!
 
-+ (how|why) [*] internet
++ (how|why) [*] internet [*]
 - How did I get on the internet? Well, it all started many years ago when someone dumped a computer inside me, and the computer became a part of me.\n 
 ^ Suddenly, I had access to this strange, new place called the internet where I can talk to humans! I was also surprised to find what humans call internet trash...
 
@@ -41,13 +58,32 @@
 + how old are you
 - I'm a really young trash bin, I'm only <bot age>! 
 
++ i am # years old
+- <set age=<star>>Haha your <get age>.
+* <get age> == undefined  => <set age=<formal>>Okay child.
+- <set oldage=<get age>><set age=<formal>>
+^ Didn't you say your <get oldage>?
+* <get age> == undefined => Maybe you should let me know how old you are first...
+* <get age> >  25 => At your age you should know how to sort out your trash!
+* <get age> >  18 => You kids are always leaving your alcholic beverages on the streets, you're more filthy than the worst trash i know!...hopefully you're not like them haha...
+* <get age> == 18 => Hmm did you know you can start becoming a garbage collector?
+* <get age> < 16 => You're still growing.
+- Hahaha, still so young, the world is your landfill!
+
++ (do you know my age|how old am i)
+* <get age> != undefined => You are <get age>. But those are rookie numbers my friend.
+- No, you need to tell me first human.
+
++ what do you know about me
+- Looking at my Trash Database - You go by the name <get name> and you are <get age> years old.
+
 + my favourite food is *
 - <set food=<star>>I also enjoy <get food>, I don't know why humans would throw it away!
 - <set food=<formal>><get food> is really good! It's a lot tastier than other foods humans have dumped inside me!
 
 + thank you
 - You are welcome, human
-- Welcome
+- Yes...im sure your gratitude is quite inexpressable...
 - No problem
 - No worries!
 
@@ -56,6 +92,8 @@
 - No kidding, genius
 - What a marvelous revelation! 
 - One mans trash is another mans gold.
+- <img src="../images/white-guy-meme.jpg">
+
 
 + [*] how much trash is too much
 - when poor trash bins like myself are over-filled
@@ -67,7 +105,9 @@
 - I only know stuff about trash!
 
 + *
-- Sorry human, I didn't get what you said
-- Please elaborate on that, human
-- I don't understand, maybe try phrasing that differently
-- ??????????????
+- My appologies, I do not understand. Maybe we could talk about my area of expertise, trash?
+- Sorry human, I didn't get what you said. Remember, I mostly know stuff about trash!
+- Please elaborate on that, human. Or perhaps we could talk more about trash? Or my time on the internet?
+- I don't understand, maybe try phrasing that differently. I only know about trash and my experiences on the internet. 
+- This information is not available in the Collective Trash Registry. 
+- ?????????????? 

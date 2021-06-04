@@ -1,28 +1,38 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;800&display=swap");
+/*@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;800&display=swap");*/
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url("https://use.typekit.net/knm7pnb.css");
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 * {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'lores-12', sans-serif;
   font-size: 12pt;
+  font-weight: 400;
+  font-style: normal;
   margin: 0;
   box-sizing: border-box;
 }
 
 body {
-  background: greenyellow;
+  background-image: url(/images/collage.jpg);
+  background-size: cover;
 }
 
 .title {
-  height: 5vh;
+  font-family: 'Ubuntu', sans-serif;
+  height: 10vh;
   display: flex;
   align-items: center;
   justify-content: center;
+  
 }
 
 .title h1 {
   letter-spacing: 0.75px;
-  color: blueviolet;
+  color: rgb(129, 255, 129);
+  background:darkgreen;
+  padding: 10px;
 }
 
 .wrapper {
@@ -31,7 +41,7 @@ body {
 
 .chat {
   background: white;
-  box-shadow: 10px 10px 0px blueviolet;
+  box-shadow: 10px 10px 0px rgb(129, 255, 129);
   overflow: scroll;
   height: 100%;
   display: flex;
@@ -59,13 +69,18 @@ body {
 }
 
 .messages div a:hover {
-  color: blueviolet;
+  color:rgb(129, 255, 129)t;
+}
+
+.messages img {
+  width: 100%;
 }
 
 .messages .bot {
+  font-family: 'Ubuntu', sans-serif;
   text-align: left;
   margin-right: auto;
-  background: black;
+  background: grey;
   color: white;
 }
 
@@ -74,8 +89,8 @@ body {
   margin-right: 20px;
   margin-left: auto;
   background: white;
-  border: 1px solid blueviolet;
-  color: blueviolet;
+  border: 1px solid grey;
+  color: green;
 }
 
 .actions {
@@ -94,12 +109,16 @@ body {
   outline: 0;
   border-top: 0px;
   border-right: 0px;
-  border-bottom: 2px solid black;
+  border-bottom: 2px solid green;
   border-left: 0px;
 }
 
+.script{
+ font-family: 'lores-12', sans-serif;
+}
+
 input:focus {
-  border-bottom: 2px solid blueviolet;
+  border-bottom: 2px solid rgb(129, 255, 129)t;
 }
 
 @media all and (min-width: 720px) {
