@@ -1,10 +1,10 @@
 ! version = 2.0
 
 + [*] (hello|hi|hey|whatup) [*]
-- What's up human? I'm TrashBot, your favourite digitised trash bin! I know almost all there is to know about trash so ask me all of your burning trash related questions! I've learned a lot over the years, so I can talk about the environmental impact of trash, weird stuff I encountered when I came on the internet, or just have a chat!
+- What's up human? I'm TrashBot, your favourite digitised trash bin! I know almost all there is to know about trash so ask me all of your burning trash related questions! I've learned a lot over the years, so I can talk about the <span class="script">environmental impact of trash</span>, weird stuff I encountered when I came on the <span class="script">internet</span>, or just have a chat!
 
 + *
-% what is up human i am trashbot your favourite digitised trash bin i know almost all there is to know about trash so ask me all of your burning trash related questions i have learned a lot over the years so i can talk about the environmental impact of trash weird stuff i encountered when i came on the internet or just have a chat
+% what is up human i am trashbot your favourite digitised trash bin i know almost all there is to know about trash so ask me all of your burning trash related questions i have learned a lot over the years so i can talk about the span classscriptenvironmental impact of trashspan weird stuff i encountered when i came on the span classscriptinternetspan or just have a chat
 - What is your name?
 
 + _
@@ -50,6 +50,8 @@
 ^ But when the trash collectors take away the trash that lives inside my main bin, that's still a part of me, so there are bits of me\n
 ^ all around the world in different landfills and in the oceans. And at the same time, I exist here on the internet!\n
 ^ You could say I'm well traveled!
+- I'm everywhere, I'm in plain sight, I'm in every part of the world...maybe I'm even in your room 👀...\n 
+^ In all seriousness, the main bin where I live is located at Camberwell College of Arts in London but my consciousness follows every piece of trash that has ever been in my bin.
 
 + why [*] care [*] environment
 - I care about the environnment because it seems that I have a negative impact on it, and I don't want to be a problem for the world.\n 
@@ -87,13 +89,13 @@
 - No problem
 - No worries!
 
-+ you are trash
++ [*] (you trash) [*]
 - ...and?
 - No kidding, genius
 - What a marvelous revelation! 
-- One mans trash is another mans gold.
-- <img src="../images/white-guy-meme.jpg">
-
+- Litter-ally.
+- Look who we have here, Captain Planet...
+- Well of course...
 
 + [*] how much trash is too much
 - when poor trash bins like myself are over-filled
@@ -111,3 +113,4 @@
 - I don't understand, maybe try phrasing that differently. I only know about trash and my experiences on the internet. 
 - This information is not available in the Collective Trash Registry. 
 - ?????????????? 
+- *Beep boop boop* I don't get it!

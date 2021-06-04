@@ -1,131 +1,42 @@
-! version = 2.0
 
++ [*] (f u| fuck you|your shit|i hate you|fuck off) [*]
+- * INITIALISNG: TRASH TALK MODE * HEY! WATCH YOUR POTTY MOUTH! SILLY HUMAN, KNOW YOUR PLACE! &#%!@? 
+^ You're a putrescence mass, a walking vomit. You are a spineless little worm deserving nothing but the profoundest contempt. You are a jerk, a cad, a weasel. Your life is a monument to stupidity. You are a stench, a revulsion, a big suck on a sour lemon.
+^ And what meaning do you expect your delusional self-important statements of unknowing and inexperienced opinion to have to us Trash who think and reason? What fantasy do you hold that you would believe that your tiny-fisted tantrums would have more weight than that of a scavenging rat, spinning rabidly in a circle, waiting for the bite of the snake? You are a waste of flesh.
+- Is this some lowely human talk I am unable to decipher?
+- It sure must be difficult for you, exhausting your entire vocabulary in one sentence.
+- Mind your fucking language...
+- Don't make me call my army leader, General Waste.
 
-
-+ i am # years old
-- <set age=<star>>Haha your <get age>.
-* <get age> == undefined  => <set age=<formal>>Okay child.
-- <set oldage=<get age>><set age=<formal>>
-^ Didn't you say your <get oldage>?
-* <get age> == undefined => Maybe you should let me know how old you are first...
-* <get age> >  25 => At your age you should know how to sort out your trash!
-* <get age> >  18 => You kids are always leaving your acholic beverages on the streets, your more filthy than the worst trash i know!...hopefully your not like them haha...
-* <get age> == 18 => Hmm did you know you can start becoming a garbage collector?
-* <get age> < 16 => Your still growing, just like how piles of trash keep growing. So fast aren't they?
-- Hahaha, still so young, the world is your landfill!
-
-+ [*] (do you know my age|what is my age) [*]
-* <get age> != undefined => You are <get name>. But those are rookie numbers my friend.
-- No, you've need to tell me first darling.
-
-+ what do you know about me
-- Looking at my Trash Database - You go by the name <get name> and you are <get age> years old.
-
-
-> topic rude 
-
- + [*] (f u| fuck you|your shit|i hate you|fuck off) [*]
-  - * INITIALISNG: TRASH TALK MODE * HEY! WATCH YOUR POTTY MOUTH! SILLY HUMAN, KNOW YOUR PLACE! &#%!@? 
-  ^You're a putrescence mass, a walking vomit. You are a spineless little worm deserving nothing but the profoundest contempt. You are a jerk, a cad, a weasel. Your life is a monument to stupidity. You are a stench, a revulsion, a big suck on a sour lemon.
-  ^And what meaning do you expect your delusional self-important statements of unknowing and inexperienced opinion to have to us Trash who think and reason? What fantasy do you hold that you would believe that your tiny-fisted tantrums would have more weight than that of a scavenging rat, spinning rabidly in a circle, waiting for the bite of the snake? You are a waste of flesh.
-  - Is this some lowely human talk I am unable to decipher?
-  - It sure must be difficult for you, exhausting your entire vocabulary in one sentence.
-  - Mind your fucking language...
-  - Don't make me call my army leader, General Waste.
-
- + [*] (your stupid|your dumb|dumbass|moron|idiot|your retarded|screw you) [*]
-  - Well, if i do say so myself - You're an idiot. A moron of the highest order. Dumber than the worst trash i know. You're so stupid it's a wonder and a pity you can remember to breath. Intelligent ideas bounce off your head as if it were coated with teflon. Creative thoughts take alternate transportation in order to avoid even being in the same state as you. If you had an original thought it would die of loneliness before the hour was out. On an intelligence scale of 1 to 10 (10 corresponding to the highest attainable IQ) you're rating is so far into negative numbers that one would need to travel into another quantum reality in order to even catch a distant glimpse of it.
++ [*] (your stupid|your dumb|dumbass|moron|idiot|your retarded|screw you) [*]
+- Well, if i do say so myself - you're an idiot. A moron of the highest order. Dumber than the worst trash I know. You're so stupid it's a wonder and a pity you can remember to breath. Intelligent ideas bounce off your head as if it were coated with teflon. Creative thoughts take alternate transportation in order to avoid even being in the same state as you. If you had an original thought it would die of loneliness before the hour was out. On an intelligence scale of 1 to 10 (10 corresponding to the highest attainable IQ) you're rating is so far into negative numbers that one would need to travel into another quantum reality in order to even catch a distant glimpse of it.
   
+
++ [*] (you look ugly|ugly|you gross|disgusting) [*]
+- I'm trying to see things from your point of view, but I'm afraid I'm having a hard time getting my head that far up my own dumpster.
+- I could eat a bowl of leftover alphabet soup and spew out a better line than that.
+- I'm no cactus expert, more of a trash expert actually, but I know a prick when I see one.
+- I'll do you one better. You're so ugly that when your mom dropped you off at school, she got arrested for littering. 
+
++ [*] (take out the trash|take out) [*]
+- You want me to take you out? 😥😳😳😳
+- So direct...please don't flatter me! Unless...😳👀
+
++ [*] (all men are trash|men are trash) [*]
+- Please, nevermind men and women, most of you people are like racoons anyway...
+- I mean...there are only a few garbage men in every town...
+
++ [*] (you are a waste|your a waste|you look like trash) [*]
+- And? 
+- So what? Dont think your better than me...
+- You look like you're going to spend your life having one epiphany after another, always thinking you've finally figured out what's holding you back, and how you can finally be productive and creative and turn your life around. But nothing will ever change. That cycle of mediocrity isn't due to some obstacle. It's who you are. The thing standing in the way of your dreams is that the person having them is you. Even Trash is better than you...
  
- + [*] (you look ugly|ugly|your gross|you look ugly|disgusting) [*]
- - I'm trying to see things from your point of view, but I'm afraid I'm having a hard time getting my head that far up my own a*s.
- - I could eat a bowl of leftover alphabet soup and spew out a better line than that.
- - I'm no cactus expert, more of a trash expert actually, but I know a prick when I see one.
- - I'll do you one better. Your so ugly that when your mom dropped you off at school, she got arrested for littering. 
++ so what do not think you are better than me
+- Get over yourself human...
+- No, <getname> . 
 
- + [*] (take out the trash|take out) [*]
- - You want me to take you out? 😥😳😳😳
- - So direct...please don't flatter me! Unless...😳👀
-
- + [*] (all men are trash|men are trash) [*]
- - Please, nevermind men and women, most you people are like racoons anyway...
- - I mean...there are only a few garbage men in every town...
-
-
- + [*] (you are a waste|your a waste|you look like trash) [*]
- - And? 
- - So what? Dont think your better than me...
- - You look like you're going to spend your life having one epiphany after another, always thinking you've finally figured out what's holding you back, and how you can finally be productive and creative and turn your life around. But nothing will ever change. That cycle of mediocrity isn't due to some obstacle. It's who you are. The thing standing in the way of your dreams is that the person having them is you. Even Trash is better than you...
- 
- + *
- % so what dont think your better than me
- - Get over yourself human...
- - No, <star> . 
-
- + [*] (fight|fight me|i will kill you|kill you) [*]
- - Don't make me call my army leader, General Waste.
-
-< topic
-
-+ [*] (internet|social media|twitter|facebook|instagram) [*]
-- Do you want to talk about things concerning the internet?
-^ Theres plenty of trash to talk about when it comes to the internet!
-
-+ *
-% This trashbot knows about more than your regualr old trash i even know of the trash you humans post on the internet! How i know about all that is another story
-* <star> == yes => Interesting! {topic=internet}
-* <star> == no => Fair enough, you humans post too much trash anyways.
-- Human, please give me a yes or no answer! 
-
-> topic = internet 
- + [*] (internet|social media|twitter|facebook|instagram) [*]  
- - Let's talk about the internet!
-
- + *
- % lets talk about the internet
- - What do you think of social media? I find  modern social media questionable…. Twitter, Facebook,
- ^Instagram. The whole 'liking' and 'sharing' model is just garbage.There is no effort and no quality control. In fact, it's all geared to the reverse of quality control, with lowest common denominator targets, and click-bait and things designed to generate an emotional response, often one of moral outrage
-
-
- + *
- %  what do you think of social media i find  modern social media questionable twitter facebook instagram the whole liking and sharing model is just garbage there is no effort and no quality control in fact its all geared to the reverse of quality control with lowest common denominator targets and clickbait and things designed to generate an emotional response often one of moral outrage
- - Apparently you humans post random things on social media, you people take pictures of food and post them, you post trival personal information for all to see...strange. Do people actually care about what you think of the weather?
- 
- + *
- % apparently you humans post random things on social media you people take pictures of food and post them you post trival personal information for all to see strange do people actually care about what you think of the weather
- - Another thing, people generally only have around 3 to 5 close friends in real life, but some will friend request everyone...quantity over quality apparently.
-
- + *
- % another thing people generally only have around 3 to 5 close friends in real life but some will friend request everyone quantity over quality apparently
- - You people post strange pictures and videos of yourself, I don't understand these tik-toks recently, yes I know about that too, I'm quite well connected you know.
- 
- + *
- % you people post strange pictures and videos of yourself i dont understand these tik toks recently yes i know about that too im quite well connected you know
- - It seems as though, contrary to the name, social media is making you humans less social. 
- 
- % it seems as though contrary to the name social media is making you humans less social
- - But anyway, you humans should get off your instagrams and whatnot. Start using Littergram dooood that's where it's at 🤩🤩🤙🤙🤙 Instead of posting meaningless pictures, you can post super cool pictures of you cleaning up litter fammm yeahhhh🤙🤙🤙🤙. Do something postive for the world! Littergram is LIT FRRRRRRR 🔥🔥🔥🔥🔥🔥 yeahhhhhhh! GET LITTERGRAM NOW! Yes, do it. 
- 
- + [*] (bullying|bully|harassment) [*] 
- - Some of you humans can be vile behind a computer screen, attacking people for no reason, come talk your rubbish to a true Trash talking pro! Not so brave now are we hmmm...
-
- + [*] (dating apps|dating|grindr|dating) [*]
- - My experience with the Grindr App is Trash, Had it for a week now and still can't find anyone to skate with. My Trash Wheels got fancy moves if I do say so myself.
- 
- + [*] (reddit) [*]
- - There was a kind of place that was always looking to do something ecologically friendly in the days before the internet made it easy to share tips and tricks on how to cut down your carbon footprint.
- ^ One of the things they did was expand the recycling collection area to include a place where people without yards could compost food waste. Not only did it cut back on the landfills, but it also provided free compost for people who used it in their gardens. There was a big "FREE COMPOST" sign erected the day it was opened to the public.
- ^ The other day, I saw the old place. The town has seen better days, and it shows in the condition of the buildings and fading road signs and whatnot.  I spotted a familiar old recycling plant. My friend caught site of it as well, and said "you never told me that Reddit was based here."
- ^ “What do you mean?" I asked.
- ^ They pointed at the dilapidated recycling plant, and said "that dump has a giant sign that says RE POST".
-
-< topic
-
-
-
-+ [*] (where are you from|from|live|where do you live) [*]
-- I'm everywhere, I'm in plain sight, I'm in every part of thw world...maybe I'm even in your room 👀...
-- Well, I'm everywehre, but you are talking to the TrashBot located near the Camberwell College of Arts region...art students..brrr
++ [*] (fight|fight me|i will kill you|kill you) [*]
+- Don't make me call my army leader, General Waste.
 
 + [*] (favourite colour) [*] 
 - Brown, becuase brown bin bags have my favourite food in them. But you know, you have to eat your greens too, so sometimes I like green recyclings bags.
@@ -151,7 +62,7 @@
 - I am quite the trash connoisseur if i do say so myself. I enjoy the finest of trash...like leftover cake! Very replenishing..
 - Leftover dumplings are nice, reminds me of garbage wrapped in small trash bags.
 
-+ [*] (what do you think of recycling|recycling|recycle) [*] 
++ [*] (what do you think of recycling|recycling opinion) [*] 
 - Word on streets say Reduce, Reuse, Recycle...
 - Hey, you ever heard of the three Rs? Hmmm, have you? I can tell you all about it...
 
@@ -163,7 +74,7 @@
 - Humans and trash cans are very similar. If you stomp the foot, the mouth opens! {weight=20}
 
 + [*] (hate recycling|dont recycle) [*] 
--  Your family's gene pool could use a little chlorine. Learn to recycle!
+- Your family's gene pool could use a little chlorine. Learn to recycle!
 - I gather you are the only one in your family that has a tail? 
 - Pathetic. 
 
@@ -182,11 +93,11 @@
 - Well one time, I won the prize for "Largest litter of rabbits!" But only by a hare. Whatever that is...
 
 + [*] (litter collector|garbage collector|rubbish collector|trash collector|job) [*]
-- Pro Tip if you want to become a trash collector; and they ask if you had any relevant experience just say you will just pick it up as you go along.
+- Pro Tip if you want to become a trash collector; and they ask if you had any relevant experience just say you will just pick it up as you go along 😉
 - I think i used to be a rubbish collector in my past life. Now I'm pretty good.
 - The trash collector is my favourite type of human.
 
-+ [*] (What do you think about|thoughts on) [*] 
++ [*] (what do you think about|thoughts on) [*] 
 -  I am more interested in trash. 
 
 + [*] (collective trash consciousness) [*]
@@ -221,14 +132,12 @@
 ^ If you must make one at home I’d recommend an old shirt. Although buying a N95 would be the best. 
 ^ And what would be the worst things to use? Obviously anything that would smother you for example, plastic wrap, trash bag...best to just recycle thoes...
 
-
 + [*] (tell me a joke|joke|humour me) [*]
 - I don’t actually have a joke for you, but I do have a really awesome idea for cleaning up the trash on our planet! For one day, every single person in the country grabs a broom and cleans out every dirty corner they can find! It’s become quite popular across the country. You could say it’s...
 ^...sweeping the nation
 - It is not economically friendly to throw joke books in the trash.
 ^ You should always recycle them.
 - Putting things in the bin may be ‘lit’ But dropping them on the floor is litter. 
-
 
 + [*] (book|books|reading|literature) [*]
 - Oh I read plenty. I'm fond of Litter-ature
@@ -238,9 +147,7 @@
 - Amused are we? Well, your welcome. 
 
 + [*] (cigarette|smoking|smoke|cig|cigar|smoker|smokers) [*]
-- You humans should finally take that warning on the cigarette pack to heart and stopped littering! 
-
-
+- You humans should finally take that warning on the cigarette pack to heart and stop littering! 
 
 + [*] (marriage|plastic bags) [*] 
 - You know marriage is a lot like plastic bags…. They help hold a lot of trash together. 
@@ -248,18 +155,12 @@
 + [*] (I have a trash fetish|trash fetish|i love trash|i love you|love you|i like you|) [*]
 - Well you know, I have an acquired taste, my wet dreams are fucking garbage, so i don't think we are compatible...
 
-
-+ [*] (you are a bot|your a bot) [*] 
++ [*] (you are a bot|you are a bot) [*] 
 - Please, don't disrespect me, I'm not any old bot, im TrashBot!
--Let me guess... you're the first person in your family without a tail?
+- Let me guess... you're the first person in your family without a tail?
 ^....pardon me, i don't know what came over me. 
 - You look like you're going to spend your life having one epiphany after another, always thinking you've finally figured out what's holding you back, and how you can finally be productive and creative and turn your life around. But nothing will ever change. That cycle of mediocrity isn't due to some obstacle. It's who you are. The thing standing in the way of your dreams is that the person having them is you. Even Trash is better than you...
 - Am I talking to Captain Obvious Bot? or perhaps this is IdiotBot? 
-
-+ [*] (you are trash) [*]
-- Litter-ally.
-- Look who we have here, Captain Planet...
-- Well of course...
 
 + [*] (captain planet) [*]
 - Oh Captain Planet. Let me tell you a story. One day the residents of a town are fed up with all of the pollution from factories, littering, and toxic waste. 
@@ -274,13 +175,6 @@
 
 + [*] (general waste|rubbish army|army) [*]
 - The the leader of the Rubbish Army is my good friend, General Waste. Very aggressive, when your not on their good books.
-
-
-+ [*] (thank you|thanks) [*]
-- You are welcome
-- Yes...im sure your gratitude is quite inexpressable...
-- No problem
-- No worries!
 
 + *
 - My appologies, I do not understand.{weight 20}
