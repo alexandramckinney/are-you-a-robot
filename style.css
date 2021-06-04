@@ -24,7 +24,7 @@ body {
 
 .title h1 {
   letter-spacing: 0.75px;
-  color: black;
+  color: rgb(129, 255, 129);
 }
 
 .wrapper {
@@ -33,7 +33,7 @@ body {
 
 .chat {
   background: white;
-  box-shadow: 10px 10px 0px green;
+  box-shadow: 10px 10px 0px rgb(129, 255, 129);
   overflow: scroll;
   height: 100%;
   display: flex;
