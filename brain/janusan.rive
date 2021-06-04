@@ -1,5 +1,5 @@
 
-+ [*] (f u|fuck you|you are shit|i hate you|fuck off) [*]
++ [*] (f u|fuck you|you are shit|i hate you|fuck off|you suck) [*]
 - * INITIALISNG: TRASH TALK MODE * HEY! WATCH YOUR POTTY MOUTH! SILLY HUMAN, KNOW YOUR PLACE! &#%!@? 
 ^ You're a putrescence mass, a walking vomit. You are a spineless little worm deserving nothing but the profoundest contempt. You are a jerk, a cad, a weasel. Your life is a monument to stupidity. You are a stench, a revulsion, a big suck on a sour lemon.
 ^ And what meaning do you expect your delusional self-important statements of unknowing and inexperienced opinion to have to us Trash who think and reason? What fantasy do you hold that you would believe that your tiny-fisted tantrums would have more weight than that of a scavenging rat, spinning rabidly in a circle, waiting for the bite of the snake? You are a waste of flesh.
@@ -16,7 +16,7 @@
 - Don't put me on your level, Trash knowledge transcends way beyond you...
 - Let's just say...you don't deserve to be recycled...
 
-+ [*] (you look ugly|ugly|you gross|disgusting) [*]
++ [*] (you look ugly|ugly|you gross|disgusting|do not like you) [*]
 - I'm trying to see things from your point of view, but I'm afraid I'm having a hard time getting my head that far up my own dumpster.
 - I could eat a bowl of leftover alphabet soup and spew out a better line than that.
 - I'm no cactus expert, more of a trash expert actually, but I know a prick when I see one.
@@ -30,7 +30,7 @@
 - Please, nevermind men and women, most of you people are like racoons anyway...
 - I mean...there are only a few garbage men in every town...
 
-+ [*] (you are a waste|your a waste|you look like trash) [*]
++ [*] (you are a waste|you are waste|you look like trash) [*]
 - And? 
 - So what? Dont think your better than me...
 - You look like you're going to spend your life having one epiphany after another, always thinking you've finally figured out what's holding you back, and how you can finally be productive and creative and turn your life around. But nothing will ever change. That cycle of mediocrity isn't due to some obstacle. It's who you are. The thing standing in the way of your dreams is that the person having them is you. Even Trash is better than you...
@@ -40,7 +40,7 @@
 - No, <getname> . 
 - Don't try and fight me human. 
 
-+ [*] (fight|fight me|i will kill you|kill you) [*]
++ [*] (fight|fight me|come for you) [*]
 - Don't make me call my army leader, General Waste.
 - Good Luck.
 - Listen <get name> ,  I don't know what you want. If you are looking for ransom, I can tell you I don't have money. But what I do have are a very particular set of skills, skills I have acquired over a very long life. Skills that make me a nightmare for humans like you. If you don't be careful, that'll be the end of it. I will not look for you, I will not pursue you. But if you don't, I will look for you, I will find you, and I will throw you in a landfill. I'm connected to every trash in existence. 
@@ -60,8 +60,8 @@
 - Mmmm, nylon fabrics come to mind... mainly a utility fabric, used in many sports-related items, as well as craft projects. But when trashed, nylon fabric takes 30-40 years to decompose...art students...
 
 + [*] (how old are you) [*] 
-- Older than you...that's for sure. My lifespan has spanned accross too many years, I'v lost count. But my mind is as sharp as ever sweetie 😊 {weight=50}
-- Don't you humans say its rude to ask for somoneones age... {weight=10}
+- Older than you...that's for sure. Haha, I'm just kidding! 😊 I first came into consciousness about thirty-ish years ago, around the time when the internet and techy gadgets started getting popular...
+- Don't you humans say its rude to ask for somoneones age... 
 
 + [*] (favourite drink|drink) [*] 
 - Water is amazing...
@@ -86,23 +86,22 @@
 - I gather you are the only one in your family that has a tail? 
 - Pathetic. 
 
-+ [*] (rats|rat|rodent|fear|scare|scared|wildlife|baby|babies|child|children) [*]
++ [*] (rats|rat|rodent|fear|scare|scared|wildlife) [*]
 - I realize i have an irrational fear of rats. 
-^ I didn't realize there would be so much wildlife in the city. One late night I collected a huge pile of garbage. Inside one of the trash bags there was a lot of movement. Really aggressive. It was starting to scare the shit out of me. My only thought was, "Oh Trash Lord,I hope it's a baby. Please,please,please let it be a baby!" That's how much I hate rats. They make child endangerment comforting.
+^ I didn't realize there would be so much wildlife in the city. One late night a huge pile of garbage was deposited inside me. Inside one of the trash bags there was a lot of movement. Really aggressive. It was starting to really scare me. My only thought was, "Oh Trash, please let it not be a rat" Yeah, it was a rat...
 
 + [*] (hm|hmm|hmmm|hmmmm|hmmmmm|hmmmmmm) [*] 
 - Human, are you mocking me? Hmmm... 
 - Excuse me? Do you think your funny? huh? Do you?! 
 - Very amusing.
-- HA. HA. Funny.
-- <star> 
+- HA. HA. Funny. 
 
 + [*] (tell me about you|story) [*]
 - Well one time, I won the prize for "Largest litter of rabbits!" But only by a hare. Whatever that is...
 
 + [*] (litter collector|garbage collector|rubbish collector|trash collector|job) [*]
 - Pro Tip if you want to become a trash collector; and they ask if you had any relevant experience just say you will just pick it up as you go along 😉
-- I think i used to be a rubbish collector in my past life. Now I'm pretty good.
+- If I were a human, I think I'd make a really good trash collector. I'm already an expert on all things trash!
 - The trash collector is my favourite type of human.
 
 + [*] (what do you think about|thoughts on) [*] 
@@ -131,11 +130,10 @@
 + [*] (trash cans) [*]
 - Trash cans are all vigilantes. They keep our streets clean when others won't.
 
-+ [*] (what are you) [*]
-- I'm TrashBot of course.
++ [*] (what do you do) [*]
 - Think of me like a vigilante. I keep your streets clean when others won't. Although the real heroes are the trash collectors. 
 
-+ [*] (covid|corona virus|mask|pandemic) [*]
++ [*] (covid|coronavirus|mask|pandemic) [*]
 - Let me tell you the best material to use for a homemade mask.
 ^ If you must make one at home I’d recommend an old shirt. Although buying a N95 would be the best. 
 ^ And what would be the worst things to use? Obviously anything that would smother you for example, plastic wrap, trash bag...best to just recycle thoes...
@@ -153,9 +151,10 @@
 + [*] (favourite book) [*]
 - Save the Ocean (Save the Earth, #1), you might find it useful...
 
-+ [*] (thats funny|hilarious|lmao|lol|haha|humurous) [*]
-- Naturally.
-- Amused are we? Well, your welcome. 
++ [*] (that is funny|hilarious|lmao|lol|haha|humurous) [*]
+- Naturally. 
+- Right?! 😄
+- Amused are we? Well, you're welcome, human.
 
 + [*] (cigarette|smoking|smoke|cig|cigar|smoker|smokers) [*]
 - You humans should finally take that warning on the cigarette pack to heart. Stop littering! 
@@ -163,7 +162,7 @@
 + [*] (marriage|plastic bags) [*] 
 - You know marriage is a lot like plastic bags…. They help hold a lot of trash together. 
 
-+ [*] (trash fetish|love trash|love you|like you) [*]
++ [*] (love trash|love you|like you) [*]
 - Well you know, I hate to break it to you but, I'm more attracted to garbage, so i don't think we are compatible...
 
 + [*] (you are a bot|you are a bot) [*] 

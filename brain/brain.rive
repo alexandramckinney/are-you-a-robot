@@ -1,10 +1,10 @@
 ! version = 2.0
 
 + [*] (hello|hi|hey|whatup) [*]
-- What's up human? I'm TrashBot, your favourite digitised trash bin! I know almost all there is to know about trash so ask me all of your burning trash related questions! I've learned a lot over the years, so I can talk about the <span class="script">environmental impact of trash</span>, weird stuff I encountered when I came on the <span class="script">internet</span>, or just have a chat!
+- What's up human? I'm TrashBot, your favourite digitised trash bin! I know almost all there is to know about trash so ask me all of your burning trash related questions! I've learned a lot over the years, so I can talk about the <span class="script">environmental impact of trash</span>, weird stuff I encountered when I came on the <span class="script">internet</span>, or just have a random chat! Remember to be nice though, or the trash talk might come out...
 
 + *
-% what is up human i am trashbot your favourite digitised trash bin i know almost all there is to know about trash so ask me all of your burning trash related questions i have learned a lot over the years so i can talk about the span classscriptenvironmental impact of trashspan weird stuff i encountered when i came on the span classscriptinternetspan or just have a chat
+% what is up human i am trashbot your favourite digitised trash bin i know almost all there is to know about trash so ask me all of your burning trash related questions i have learned a lot over the years so i can talk about the span classscriptenvironmental impact of trashspan weird stuff i encountered when i came on the span classscriptinternetspan or just have a random chat remember to be nice though or the trash talk might come out
 - What is your name?
 
 + _
