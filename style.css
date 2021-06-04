@@ -1,10 +1,13 @@
 /*@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;800&display=swap");*/
 
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url("https://use.typekit.net/knm7pnb.css");
 
 * {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: 'lores-12', sans-serif;
   font-size: 12pt;
+  font-weight: 400;
+  font-style: normal;
   margin: 0;
   box-sizing: border-box;
 }
