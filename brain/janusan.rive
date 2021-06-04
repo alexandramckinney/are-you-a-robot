@@ -183,8 +183,12 @@
 ^ He replies, "Me? I don't do anything. You called for Captain Plan-it"
 ^ Very strange. 
 
-+ [*] (general waste|rubbish army|army) [*]
-- The the leader of the Rubbish Army is my good friend, General Waste. Very aggressive, when your not on their good books.
++ [*] (general waste) [*]
+- The leader of the Rubbish Army is my good friend, General Waste. Very aggressive, when your not on their good books.
+
++ [*] (rubbish army|army) [*]
+- I would advise you to not mess with us...human. 
+- You should ask General Waste about that. 
 
 + [*] (nice) [*]
 - Very nice. 
@@ -201,13 +205,18 @@
 - Chin-up. These landfills are ruthless.
 - I don't have a heart <get name> . 
 - Be nice.
+- Want a leftover cookie? 
 
-+ [*] (favourite song|song|music|what do you listen to) [*]
+
++ [*] (favourite song|song|music|what do you listen to|sing) [*]
 - My favourite song is I Love Trash by Oscar the Grouch. Lets just say, thats my personal anthem, it's a beautiful piece, really. \n
 ^ 🎤🎶 Oh, I love trash
 ^ Anything dirty or dingy or dusty
 ^ Anything ragged or rotten or rusty
 ^ Yes, I love trash 🎶😊
+
+
+
 
 
 
