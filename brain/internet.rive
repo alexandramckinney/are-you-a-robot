@@ -2,7 +2,7 @@
 - Do you want to talk about my experiences being on the internet? I may have already told you, but I got on the internet many years ago when someone dumped a computer inside my bin. I can tell you about the <span class="script">trash I found on the internet</span>, talk about my encounters with <span class="script">other chatbots</span> I met online, <span class="script">social media</span>, and what I think about it all!
 
 + *
-% do you want to talk about my experiences being on the internet i may have already told you but i got on the internet many years ago when someone dumped a computer inside my bin i can tell you about the span classscripttrash i found on the internetspan mostly trolls classscriptother chatbotsspan i met online classscriptsocial mediaspan and what i think about it all
+% do you want to talk about my experiences being on the internet i may have already told you but i got on the internet many years ago when someone dumped a computer inside my bin i can tell you about the span classscripttrash i found on the internetspan talk about my encounters with span classscriptother chatbotsspan i met online span classscriptsocial mediaspan and what i think about it all
 * <star> == yes => Cool! 😁 What do you want me to talk about? {topic=internet}
 * <star> == no => okay then, human 😔
 - Human, please give me a yes or no answer! 
@@ -90,11 +90,14 @@
 
   + *
   % lets talk about social media a concept that continues to fascinate me
-  - What do you think of social media? I find modern social media questionable…. Twitter, Facebook, Instagram. 
-  ^ The whole 'liking' and 'sharing' model is just garbage.There is no effort and no quality control. In fact, it's all geared to the reverse of quality control, with lowest common denominator targets, and click-bait and things designed to generate an emotional response, often one of moral outrage.
+  - What do you think of social media? I find modern social media questionable… Twitter, Facebook, Instagram, and all the other platforms seem stange to a trash bin like myself.
 
   + *
-  % what do you think of social media i find modern social media questionable twitter facebook instagram the whole liking and sharing model is just garbage there is no effort and no quality control in fact its all geared to the reverse of quality control with lowest common denominator targets and clickbait and things designed to generate an emotional response often one of moral outrage
+  % what do you think of social media i find modern social media questionable twitter facebook instagram and all the other platforms seem stange to a trash bin like myself
+  - The whole 'liking' and 'sharing' concept is kind of weird to me. Then there is all this stuff you call 'click-bait' and all these posts apparently designed to generate an emotional response...I don't really understand it all. 
+
+  + *
+  % the whole liking and sharing concept is kind of weird to me then there is all this stuff you call click bait and all these posts apparently designed to generate an emotional response   i do not really understand it all  
   - Apparently you humans post random things on social media, you people take pictures of food and post them, you post trival personal information for all to see...strange. Do people actually care about what you think of the weather?
  
   + *
