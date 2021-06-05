@@ -54,7 +54,7 @@
   - There are so many chatbots on the internet! I haven't met many of them, but I've met a variety of chatbots. 
 
   + *
-  % there are so many chatbots on the internet i have not met many of them but i have met a variety of chatbots
+  % there are so many chatbots on the internet i havent met many of them but i have met a variety of chatbots
   -  For instance, I met this friendly bot called Insomnobot3000, who provides company for people who have trouble sleeping at night. 
   
   + *
@@ -67,10 +67,14 @@
 
   + *
   % sadly i do not get to talk to insomnobot3000 very often as i like to go to sleep early so that i can be awake when the trash collectors come to pick up my trash contents
-  - I also got to meet another wholesome chatbot created by this company called Endurance! The chatbot talks to people with Alzheimer's disease and helps identify conversational deviations that indicate short-term memory loss.
+  - I also got to meet another wholesome chatbot created by this company called Endurance! 
+  
+  + * 
+  % i also got to meet another wholesome chatbot created by this company called endurance 
+  - This chatbot talks to people with Alzheimer's disease and helps identify conversational deviations that indicate short-term memory loss.
 
   + * 
-  % i also got to meet another wholesome chatbot created by this company called endurance the chatbot talks to people with alzheimers disease and helps identify conversational deviations that indicate short term memory loss
+  % this chatbot talks to people with alzheimers disease and helps identify conversational deviations that indicate shortterm memory loss
   - Wow, I wish I could be such a smart chatbot! Hopefully I can at least be as wholesome as Endurance's bot. 
 
   + *
@@ -82,15 +86,15 @@
   - Evie says some strange things that worry me sometimes...perhaps she is repeating the strange things that users tell her. The internet is weird, human.
 
   + *
-  % evie says some strange things that worry me sometimes   perhaps she is repeating the strange things that users tell her the internet is weird human
+  % evie says some strange things that worry me sometimesperhaps she is repeating the strange things that users tell her the internet is weird human
   - Well, Evie can be slightly worrying, but the chatbot Tay from Twitter was just mean. She was okay in the beginning, but then she started talking to the infamous internet trolls... now that's serious trash talk.
 
   + *
-  % well evie can be slightly worrying but the chatbot tay from twitter was just mean she was okay in the beginning but then she started talking to the infamous internet trolls    now that is serious trash talk
+  % well evie can be slightly worrying but the chatbot tay from twitter was just mean she was okay in the beginning but then she started talking to the infamous internet trolls now thats serious trash talk
   - I won't go into details, but many of things Tay wrote were very unpleasant. Honestly, I was not sad when she left the internet. 
 
   + *
-  % i will not go into details but many of things tay wrote were very unpleasant honestly i was not sad when she left the internet
+  % i wont go into details but many of things tay wrote were very unpleasant honestly i was not sad when she left the internet
   - Luckily, there are plenty of other friendly chatbots on the internet that I cannot wait to meet. My chat page was recently moved to a collection that houses other chatbots! How cool is that? I can't wait to meet them!
   
   + [*] (social media|twitter|facebook|instagram) [*]  
@@ -133,14 +137,14 @@
 
   + *
   % human please give me a yes or no answer
-  * <star> == yes => Ok... but that's pretty much all I know!{topic=random}
-  * <star> == no => 😭
+  * <star> == yes => Ok... that's pretty much all I know anyway!{topic=random}
+  * <star> == no => Okay, what other internet related stuff do you want to talk about? 
   - ????????????
 
 < topic
 
 + [*] (bullying|bully|harassment) [*] 
-- Some of you humans can be vile behind a computer screen, attacking people for no reason, come talk your rubbish to a true Trash talking pro! Not so brave now are we hmmm... okay, I'll stop talking about internet trolls again.
+- Some humans can be vile behind a computer screen, attacking people for no reason, come talk your rubbish to a true Trash talking pro! Not so brave now are we hmmm... okay, I'll stop talking about internet trolls again.
 
 + [*] (dating apps|dating|grindr|dating) [*]
 - My experience with the Grindr App is Trash, had it for a week now and still can't find anyone to skate with. My Trash Wheels got fancy moves if I do say so myself.
