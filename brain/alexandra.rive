@@ -10,7 +10,7 @@
 
 + *
 % human please give me a yes or no answer
-* <star> == yes => Great! What do you want to talk about? {topic=environment}
+* <star> == yes => Great! What should we talk about?{topic=environment}
 * <star> == no => 😣
 - ???????
 

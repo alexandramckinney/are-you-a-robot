@@ -196,12 +196,12 @@
 - You heard me. 
 - Mhm. 
 
-+ [*] (yes|say less|say no more) [*]
++ [*] (say less|say no more) [*]
 - Okay. 
 - Indeed. 
 - Mhm. 
 
-+ [*] (no|nope|denied|noo|nooo|noooo|noooooo)
++ [*] (denied)
 - Suit yourself. 
 - Alright.
 - Fair enough. 
