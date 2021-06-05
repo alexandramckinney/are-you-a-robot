@@ -39,7 +39,7 @@
 
 + (what are you|who are you)
 - I'm <bot name>! Because my consciousness follows every trash bit that has ever been in my main bin, I get to talk to other trash pieces and bins all over the world!\n 
-^ Because of this, I've learned lots of things! I've learned about how trash has a negative impact on the environment and that there is even trash on the internet. What a crazy world in which to be a trash bin!
+^ Because of this, I've learned lots of things! I've learned about how <span class="script">trash has a negative impact on the environment</span> and that there is even <span class="script">trash on the internet.</span> What a crazy world in which to be a trash bin!
 
 + (how did you get on the internet internet|how are you on the internet|why are you on the internet)
 - How did I get on the internet? Well, it all started many years ago when someone dumped a computer inside me, and the computer became a part of me.\n 
