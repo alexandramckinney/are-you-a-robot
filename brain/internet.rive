@@ -5,10 +5,10 @@
 % do you want to talk about my experiences being on the internet i may have already told you but i got on the internet many years ago when someone dumped a computer inside my bin i can tell you about the span classscripttrash i found on the internetspan talk about my encounters with span classscriptother chatbotsspan i met online span classscriptsocial mediaspan and what i think about it all
 * <star> == yes => Cool! 😁 What do you want me to talk about? {topic=internet}
 * <star> == no => okay then, human 😔
-- Human, please give me a yes or no answer! 
+- Please human, can you give me a yes or no answer? 
 
 + *
-% human please give me a yes or no answer
+% please human can you give me a yes or no answer 
 * <star> == yes => Great! What do you want to talk about?{topic=internet}
 * <star> == no => 😣
 - ???????
