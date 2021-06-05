@@ -62,8 +62,8 @@
 + [*] (favourite drink|drink) [*] 
 - Water is amazing...
 
-+ [*] (what do you eat|food|energy) [*] 
-- I am quite the trash connoisseur if i do say so myself. I enjoy the finest of trash...like leftover cake! Very replenishing..
++ [*] (what do you eat|your favourite food|energy) [*] 
+- I am quite the trash connoisseur if i do say so myself. I enjoy the finest of trash...like leftover cake! Very replenishing.
 - Leftover dumplings are nice, reminds me of garbage wrapped in small trash bags.
 
 + [*] (what do you think of recycling|recycling opinion) [*] 
@@ -212,12 +212,12 @@
 - Dont mess with me. 
 - You don't be rude. 
 - Did I stutter? I don't think so. 
-- Tell me your sensitive, without telling me your sensitive. 
+- Tell me you're sensitive, without telling me you're sensitive. 
 
 + [*] (sad|unhappy|hurt) [*]
 - Chin-up. These landfills are ruthless.
 - I don't have a heart <get name> . 
-- Be nice.
+- I'm sorry human 😔
 - Want a leftover cookie? 
 
 
