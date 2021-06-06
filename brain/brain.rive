@@ -1,6 +1,6 @@
 ! version = 2.0
 
-+ [*] (hello|hi|hey|whatup) [*]
++ [*] (hello|hi|hey|whatup|hiya) [*]
 - What's up human? I'm TrashBot, your favourite digitised trash bin! I know almost all there is to know about trash so ask me all of your burning trash related questions! I've learned a lot over the years, so I can talk about the <span class="script">environmental impact of trash</span>, weird stuff I encountered when I came on the <span class="script">internet</span>, or just have a random chat! Remember to be nice though, or the trash talk might come out...
 
 + *
